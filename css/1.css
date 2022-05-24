@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Oxanium&family=Oxygen&display=swap');
+
+*{
+    font-family: "Fira Sans", sans-serif;
+}
+
+body{
+    background-color: #4A505F;
+}
+.head{
+    background-color: blue;
+    width: 100%;
+    min-height: 5vh;
+    color: white;
+    margin: 0px;
+    display: flex;
+}
+
+#lignes{
+    height: 100px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+#menu{
+    height: 100px;
+    margin-left: 150px;
+    margin-top: 15px;
+}
+
+.text{
+    color: white;
+}
